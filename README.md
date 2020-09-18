@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on genomics and bioinformatics related projects
+- 🌱 I’m currently learning about bioinformatics algorithms and cloud computing
+- 📫 How to reach me: @shanecrinion on twitter or shanecrinion@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm currently learning the Irish language and how to swim!
+
+
