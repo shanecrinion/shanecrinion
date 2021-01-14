@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently researching the genetic link between neuropsychiatric disorders and circadian rhythm 
 - 📫 How to reach me: @shanecrinion on twitter or shanecrinion@gmail.com.
 
-![Welcome](https://media.giphy.com/media/NsR7Z3x7asOQ0/giphy.gif)
+<div align="center">![Welcome](https://media.giphy.com/media/NsR7Z3x7asOQ0/giphy.gif)</div>
