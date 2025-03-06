@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on genomics and bioinformatics related projects
 - 🌱 I’m currently researching the genetic link between neuropsychiatric disorders and circadian rhythm 
-- 📫 How to reach me: @shanecrinion on twitter or shanecrinion@gmail.com.
+- 📫 How to reach me: shanecrinion@gmail.com.
 
